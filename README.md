@@ -5,7 +5,7 @@
 ### Hey👋
 I have a degree in systems analysis and development and i looking for opportunities and collabaration in projects related to programming, to improve my knews.
 - 🖥️ I’m currently working on ERP system analyst Totvs.
-- 🚀 I’m currently learning HTML / CSS / ADVPL
+- 📚 I’m currently learning ADVPL
 - 💜 I’m looking to collaborate on project development.
 
 </br>
@@ -21,17 +21,19 @@ I have a degree in systems analysis and development and i looking for opportunit
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/USERNAME)  
   
   </br> 
-   <b> <h3> >> My skills on programim </h3> </b>
-  </br>
+   <b> <h3> >> My skills on programim  🚀 </h3> </b>
   </br>
   
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  </br>
-  </br>
+
+  <br>
+  <br>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>]
 </div>
