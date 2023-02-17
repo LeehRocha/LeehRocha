@@ -21,7 +21,7 @@ I have a degree in systems analysis and development and i looking for opportunit
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/USERNAME)  
   
   </br> 
-   <b> <h3> >> My skills on programim  🚀 </h3> </b>
+   <b> <h3> >> My programming skills 🚀 </h3> </b>
   </br>
   
  
