@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=9B2AC0&width=435&lines=Welcome%2C+i'm+Let%C3%ADcia+Rocha+%F0%9F%91%BE)](https://git.io/typing-svg)
 
+
+![GitHub followers](https://img.shields.io/github/followers/LeehRocha?style=flat&color=9644F4)
+![GitHub User's stars](https://img.shields.io/github/stars/LeehRocha?style=flat&color=9644F4)
+![GitHub last commit](https://img.shields.io/github/last-commit/LeehRocha/LeehRocha?style=flat&color=9644F4)
+![Views Counter](https://komarev.com/ghpvc/?username=LeehRocha&color=blueviolet)
+
+
 ### Hey👋
 I have a degree in systems analysis and development and i looking for opportunities and collabaration in projects related to programming, to improve my knews.
 - 🖥️ I’m currently working on ERP system analyst Totvs.
