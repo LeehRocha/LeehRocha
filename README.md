@@ -42,7 +42,7 @@ I have a degree in systems analysis and development and i looking for opportunit
   <br>
   <br>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 </br> 
